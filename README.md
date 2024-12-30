@@ -1,3 +1,4 @@
+# Adivina el numero
 Este programa es un simple pero efectivo juego de adivinanza que utiliza conceptos básicos de programación en Java. Aquí tienes un análisis detallado de sus características:
 
 Características del programa
